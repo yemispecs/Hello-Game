@@ -1,3 +1,3 @@
 # Hello-Game
 Just a new repository
-a web developer with must passion for codes that works
+a web developer with much passion for codes that works
